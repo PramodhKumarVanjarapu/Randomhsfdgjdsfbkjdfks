@@ -1,0 +1,65 @@
+[
+  {
+    "candidate": "Vasanth",
+    "round": "TR1",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Complete the given ReactJS frontend shopping cart project in CodeSandbox by implementing functionality to add items, increase/decrease item quantities, add multiple quantities of the same item, and remove items from the cart.",
+        "topic": "ReactJS - Shopping Cart Implementation"
+      }
+    ],
+    "notes": [
+      "Interview duration: 45 minutes",
+      "Task duration allotted: 30 minutes",
+      "Candidate completed all required features but exceeded the allotted time",
+      "No additional technical questions asked post-implementation"
+    ],
+    "_source_document_id": "1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU",
+    "_source_tab": "Vasanth - TR1",
+    "_source_url": "https://docs.google.com/document/d/1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU"
+  },
+  {
+    "candidate": "Hrithik Rao",
+    "round": "TR1",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Complete the given ReactJS frontend shopping cart project in CodeSandbox by implementing functionality to add items, increase/decrease item quantities, add multiple quantities of the same item, and remove items from the cart.",
+        "topic": "ReactJS"
+      }
+    ],
+    "notes": [
+      "Project was 50% pre-completed in CodeSandbox.",
+      "Focused on frontend implementation only."
+    ],
+    "_source_document_id": "1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU",
+    "_source_tab": "Hrithik Rao - TR1",
+    "_source_url": "https://docs.google.com/document/d/1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU"
+  },
+  {
+    "candidate": "Hrithik Rao",
+    "round": "TR2",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Please introduce yourself",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Explain about each project which are mentioned in the resume",
+        "topic": "UNKNOWN"
+      }
+    ],
+    "notes": [
+      "Candidate self-reported satisfaction with final round explanation.",
+      "No explicit mention of interviewer name or outcome in document."
+    ],
+    "_source_document_id": "1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU",
+    "_source_tab": "Hrithik Rao - TR2",
+    "_source_url": "https://docs.google.com/document/d/1nL4mxsGOg2JezcZ6lDuT5ZCx9EV97wHouPnlbhLFqqU"
+  }
+]

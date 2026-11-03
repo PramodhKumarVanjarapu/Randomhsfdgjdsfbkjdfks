@@ -1,0 +1,170 @@
+[
+  {
+    "candidate": "UNKNOWN",
+    "round": "UNKNOWN",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [],
+    "notes": [
+      "This document is an **assignment brief** for a **Full Stack Web Developer** role, not an interview transcript or candidate-specific evaluation.",
+      "Key technologies mentioned: **Next.js, MongoDB/Firestore, Node.js, Vercel/Netlify** (frontend/backend/deployment).",
+      "No candidate name, interviewer, or interview outcome is present.",
+      "Assignment focuses on building a **travel company website** with static dummy data, form validation, backend API, and database integration.",
+      "Evaluation criteria include **frontend craftsmanship, backend design, database persistence, deployment, and Git practices**.",
+      "Phase 2 (AI chatbot + admin dashboard) is **not part of this assignment** but mentioned for context.",
+      "No actual interview questions or candidate responses are present."
+    ],
+    "_source_document_id": "1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg",
+    "_source_tab": "Assignment",
+    "_source_url": "https://docs.google.com/document/d/1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg"
+  },
+  {
+    "candidate": "Ananya Darna",
+    "round": "Telephonic Round",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Tell me about the website you worked on.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Explain the Travel assignment you completed.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "If the website traffic increases by 50% but the number of inquiries does not increase, what would you do? / Is that good or not?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Have you used Canva?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Do you have experience with backlinks?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Do you have any work experience?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Explain the chatbot implementation from Phase 2 of the assignment.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "If a customer makes an inquiry but does not reach the company, and then the customer calls, what would be your implementation plan?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "How would you handle customer preferences?",
+        "topic": "UNKNOWN"
+      }
+    ],
+    "notes": [
+      "No interviewer name or outcome mentioned in the document body.",
+      "Tab title explicitly states 'Telephonic Round' but no explicit confirmation in the document body."
+    ],
+    "_source_document_id": "1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg",
+    "_source_tab": "Ananya Darna - Telephonic Round",
+    "_source_url": "https://docs.google.com/document/d/1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg"
+  },
+  {
+    "candidate": "Baindla Bharath Kumar",
+    "round": "Telephonic Round",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Tell me about yourself / Self-introduction.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "How is API integration working in React?",
+        "topic": "API Integration"
+      }
+    ],
+    "notes": [],
+    "_source_document_id": "1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg",
+    "_source_tab": "Baindla Bharath Kumar - Telephonic Round",
+    "_source_url": "https://docs.google.com/document/d/1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg"
+  },
+  {
+    "candidate": "Chinmaya Dalai",
+    "round": "UNKNOWN",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Tell me about yourself",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Explain how you implement the assignment?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "If the website crashed or was not responding, how will you handle it, at first what you will check, tell the steps. Briefly?",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Suppose we are generating content for the Kerala location. How will you check that marketing strategy impacts our organisation?",
+        "topic": "Marketing Strategy Evaluation"
+      }
+    ],
+    "notes": [
+      "Candidate's answer for Kerala marketing strategy impact: 'by checking the logical analytics' (vague, lacks specifics)",
+      "No explicit round, interviewer, or outcome mentioned in document"
+    ],
+    "_source_document_id": "1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg",
+    "_source_tab": "Chinmaya Dalai - Telephonic Call",
+    "_source_url": "https://docs.google.com/document/d/1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg"
+  },
+  {
+    "candidate": "Shiva Sai",
+    "round": "Telephonic Round",
+    "interviewer": "UNKNOWN",
+    "outcome": "UNKNOWN",
+    "questions": [
+      {
+        "question": "Tell me about yourself.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "Tell me about your family details.",
+        "topic": "UNKNOWN"
+      },
+      {
+        "question": "If you suddenly come to the office and the website is not working, what would you do first as a developer?",
+        "topic": "Troubleshooting/Full-Stack Development"
+      },
+      {
+        "question": "What is the difference between Next.js and Node.js?",
+        "topic": "Technologies/Full-Stack Development"
+      },
+      {
+        "question": "If you have added every keyword but the website is still not appearing at the top of search results, what would you do?",
+        "topic": "SEO/Marketing"
+      },
+      {
+        "question": "Do you have experience with Canva?",
+        "topic": "Designing"
+      },
+      {
+        "question": "Do you have experience with marketing?",
+        "topic": "Marketing"
+      },
+      {
+        "question": "Do you have experience with designing?",
+        "topic": "Designing"
+      }
+    ],
+    "notes": [
+      "Interviewer sought mixed knowledge in full-stack development, marketing, and designing.",
+      "No explicit outcome or interviewer name mentioned in the document."
+    ],
+    "_source_document_id": "1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg",
+    "_source_tab": "Shiva Sai - Telephonic Round",
+    "_source_url": "https://docs.google.com/document/d/1dUpr7XR6PJQRfqeBpIzNpK5zFhxrhm5KofZ1SmaEcpg"
+  }
+]
